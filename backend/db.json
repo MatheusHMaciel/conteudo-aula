@@ -1,6 +1,15 @@
 {
   "casa": [],
-  "cadastro": [],
+  "cadastro": [
+    {
+      "email": "as",
+      "cpf": "",
+      "nome": "",
+      "dataNasc": "",
+      "telefone": "",
+      "id": 1
+    }
+  ],
   "compra": [],
   "evento": []
 }
